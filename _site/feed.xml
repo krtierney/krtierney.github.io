@@ -3,33 +3,43 @@
 <generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 <link href="http://www.krtierney.com/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://www.krtierney.com/" rel="alternate" type="text/html" />
-<updated>2017-02-25T18:28:31+00:00</updated>
+<updated>2017-02-25T23:16:29+00:00</updated>
 <id>http://www.krtierney.com/</id>
 <subtitle>Web developer, writer, editor, photographer.
 </subtitle>
 <entry>
 <title>Welcome to Jekyll!</title>
-<link href="http://www.krtierney.com/jekyll/update/2017/02/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
-<published>2017-02-25T11:28:14+00:00</published>
-<updated>2017-02-25T11:28:14+00:00</updated>
-<id>http://www.krtierney.com/jekyll/update/2017/02/25/welcome-to-jekyll</id>
-<content type="html" xml:base="http://www.krtierney.com/jekyll/update/2017/02/25/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<link href="http://www.krtierney.com/blog/dev/2017/02/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+<published>2017-02-25T00:00:00+00:00</published>
+<updated>2017-02-25T00:00:00+00:00</updated>
+<id>http://www.krtierney.com/blog/dev/2017/02/25/welcome-to-jekyll</id>
+<content type="html" xml:base="http://www.krtierney.com/blog/dev/2017/02/25/welcome-to-jekyll.html">&lt;p&gt;I started out following the quick-start guide on &lt;a href=&quot;jekyll-docs&quot;&gt;Jekyll docs&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;p&gt;{% highlight ruby %}
-def print_hi(name)
-  puts “Hi, #{name}”
-end
-print_hi(‘Tom’)
-#=&amp;gt; prints ‘Hi, Tom’ to STDOUT.
+&lt;p&gt;{% highlight bash %}
+$ gem install jekyll
+$ jekyll new
+$ jekyll serve
 {% endhighlight %}&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As I read further through the docs and admired my new creation,
+I quickly realised I was going to be making a lot of changes to
+the default set-up, even for the simple site I had in mind. After
+copying over the layout files from the &lt;code&gt;minima&lt;/code&gt; gem to my site
+folder, I set about pruning code, poking around, and
+observing how everything is put together.&lt;/p&gt;
 
+&lt;p&gt;I’m still learning! Parts of it feel familiar. Jekyll uses
+&lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid syntax&lt;/a&gt;, which feels familiar after
+using Django at my last job. It’s far more powerful than
+I need for a site this simple, but it’s fun to have a sandbox
+to play around in.&lt;/p&gt;
+
+&lt;p&gt;However, I’ve only just realised that Liquid is part of
+the Shopify family. I don’t have much experience with
+Shopify; all I know of them is that they provide the platform
+for most of the revenue to America’s fascist media outlet… so now
+I feel much less great about how I spent my Saturday afternoon. 😕&lt;/p&gt;
 </content>
-<summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary>
+<summary>I started out following the quick-start guide on Jekyll docs:</summary>
 </entry>
 </feed>
