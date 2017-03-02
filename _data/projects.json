@@ -1,0 +1,24 @@
+{
+  "name": "London Beer Space",
+  "url": "http://londonbeer.space",
+  "feature": false
+}, {
+  "name": "Society6 Store",
+  "feature": true,
+  "url": "look me up"
+}, {
+  "name": "Make Good Time",
+  "feature": false
+}, {
+  "name": "Vaporcake",
+  "feature": true
+}, {
+  "name": "Fox",
+  "feature": false
+}, {
+  "name": "Arrowroot",
+  "feature": false
+}, {
+  "name": "BikeCHI",
+  "feature": false
+}
