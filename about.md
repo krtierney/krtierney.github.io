@@ -2,6 +2,7 @@
 layout: page
 title: Timeline
 permalink: /about/
+published: true
 ---
 
 ## 2017

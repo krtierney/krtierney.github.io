@@ -1,6 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
+published: false
 ---
 
 # Education
