@@ -139,6 +139,9 @@ pre {
 /** Icons **/
 .icon > svg {
   display: inline-block;
+  float: left;
+  padding-top: 5px;
+  padding-right: 10px;
   vertical-align: middle;
 
   path {
