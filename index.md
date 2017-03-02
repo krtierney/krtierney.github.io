@@ -4,9 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-# Currently...
-
-* Working at Happy Bear Software
-* Reading _The Silk Roads_
-* Planning a trip to Japan
