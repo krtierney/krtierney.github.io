@@ -99,7 +99,7 @@ a 10-minute time slot and a staggering breadth of existing knowledge to draw upo
  I wouldn't lose anyone's interest right off the bat. So, without further ado, here's the outline
  of the talk. You can download a [PDF of these slides](https://www.dropbox.com/s/34nvlp481uwcddf/lrug-kt-slides.pdf?dl=1) if you'd like.
 
-##A (Pointed) Guide to Beer
+## A (Pointed) Guide to Beer
 
  Why // When // How
 

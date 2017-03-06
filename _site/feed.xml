@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
-<link href="http://www.krtierney.com//feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://www.krtierney.com//" rel="alternate" type="text/html" />
-<updated>2017-03-06T20:03:59+00:00</updated>
-<id>http://www.krtierney.com//</id>
+<link href="http://www.krtierney.com/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://www.krtierney.com/" rel="alternate" type="text/html" />
+<updated>2017-03-06T20:10:29+00:00</updated>
+<id>http://www.krtierney.com/</id>
 <subtitle>Web developer, writer, editor, photographer.
 </subtitle>
 <entry>
 <title>A (Pointed) Guide to Beer</title>
-<link href="http://www.krtierney.com//2017/03/06/pointed-guide-to-beer/" rel="alternate" type="text/html" title="A (Pointed) Guide to Beer" />
+<link href="http://www.krtierney.com/2017/03/06/pointed-guide-to-beer/" rel="alternate" type="text/html" title="A (Pointed) Guide to Beer" />
 <published>2017-03-06T00:00:00+00:00</published>
 <updated>2017-03-06T00:00:00+00:00</updated>
-<id>http://www.krtierney.com//2017/03/06/pointed-guide-to-beer</id>
-<content type="html" xml:base="http://www.krtierney.com//2017/03/06/pointed-guide-to-beer/">&lt;p&gt;The slideshow below contains my slides from &lt;a href=&quot;https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks&quot;&gt;LRUG’s 13 February lightning talk
+<id>http://www.krtierney.com/2017/03/06/pointed-guide-to-beer</id>
+<content type="html" xml:base="http://www.krtierney.com/2017/03/06/pointed-guide-to-beer/">&lt;p&gt;The slideshow below contains my slides from &lt;a href=&quot;https://skillsmatter.com/skillscasts/9865-london-ruby-lightning-talks&quot;&gt;LRUG’s 13 February lightning talk
 meet-up&lt;/a&gt;.
 If you missed the meet-up, I’d highly recommend watching some of the talks at
 that link—particularly Lola’s talk about finding your dream job, and Paul’s
@@ -173,11 +173,11 @@ barleywine to go with dessert.&lt;/p&gt;
 </entry>
 <entry>
 <title>On the Cult of Giving Talks</title>
-<link href="http://www.krtierney.com//2017/03/05/no-more-talks-please/" rel="alternate" type="text/html" title="On the Cult of Giving Talks" />
+<link href="http://www.krtierney.com/2017/03/05/no-more-talks-please/" rel="alternate" type="text/html" title="On the Cult of Giving Talks" />
 <published>2017-03-05T00:00:00+00:00</published>
 <updated>2017-03-05T00:00:00+00:00</updated>
-<id>http://www.krtierney.com//2017/03/05/no-more-talks-please</id>
-<content type="html" xml:base="http://www.krtierney.com//2017/03/05/no-more-talks-please/">&lt;p&gt;I recently gave my first—and quite possibly, last—talk at a tech meet-up. While I’m grateful to LRUG for the opportunity to speak, and to the London Ruby community for being a charitable audience, giving a talk wasn’t an experience I enjoyed. I have conflicted feelings about this realisation,
+<id>http://www.krtierney.com/2017/03/05/no-more-talks-please</id>
+<content type="html" xml:base="http://www.krtierney.com/2017/03/05/no-more-talks-please/">&lt;p&gt;I recently gave my first—and quite possibly, last—talk at a tech meet-up. While I’m grateful to LRUG for the opportunity to speak, and to the London Ruby community for being a charitable audience, giving a talk wasn’t an experience I enjoyed. I have conflicted feelings about this realisation,
 which I’m sharing in case others find themselves in a similar position.&lt;/p&gt;
 
 &lt;p&gt;On the one hand, I’m very early in my tech career and still in what I’ve fondly come to
@@ -201,11 +201,11 @@ perceived lack of diverse speakers is frequently trotted out as an excuse when c
 </entry>
 <entry>
 <title>Welcome to Jekyll!</title>
-<link href="http://www.krtierney.com//2017/02/25/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+<link href="http://www.krtierney.com/2017/02/25/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
 <published>2017-02-25T00:00:00+00:00</published>
 <updated>2017-02-25T00:00:00+00:00</updated>
-<id>http://www.krtierney.com//2017/02/25/welcome-to-jekyll</id>
-<content type="html" xml:base="http://www.krtierney.com//2017/02/25/welcome-to-jekyll/">&lt;p&gt;I started out following the quick-start guide on &lt;a href=&quot;jekyll-docs&quot;&gt;Jekyll docs&lt;/a&gt;:&lt;/p&gt;
+<id>http://www.krtierney.com/2017/02/25/welcome-to-jekyll</id>
+<content type="html" xml:base="http://www.krtierney.com/2017/02/25/welcome-to-jekyll/">&lt;p&gt;I started out following the quick-start guide on &lt;a href=&quot;jekyll-docs&quot;&gt;Jekyll docs&lt;/a&gt;:&lt;/p&gt;
 
 &lt;p&gt;{% highlight bash %}
 $ gem install jekyll
