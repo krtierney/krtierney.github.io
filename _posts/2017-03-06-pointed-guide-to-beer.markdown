@@ -4,75 +4,75 @@ title:  "A (Pointed) Guide to Beer"
 date:   2017-03-06
 permalink: /2017/03/06/pointed-guide-to-beer/
 carousel:
-  - image: /assets/images/lrug/1.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/1.png
     title: A (Pointed) Guide to Beer
-  - image: /assets/images/lrug/2.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/2.png
     title: Why, When, How to Beer
-  - image: /assets/images/lrug/3.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/3.png
     title: It's a craft; brewers deserve your respect
-  - image: /assets/images/lrug/4.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/4.png
     title: Goes great with food
-  - image: /assets/images/lrug/5.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/5.png
     title: Gets you drunk
-  - image: /assets/images/lrug/6.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/6.png
     title: When to beer
-  - image: /assets/images/lrug/7.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/7.png
     title: How to beer
-  - image: /assets/images/lrug/8.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/8.png
     title: How to drink beer at a certain sort of pub
-  - image: /assets/images/lrug/9.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/9.png
     title: Drink gin, not bad beer
-  - image: /assets/images/lrug/10.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/10.png
     title: Ask for tasters
-  - image: /assets/images/lrug/11.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/11.png
     title: Chat with the bartenders
-  - image: /assets/images/lrug/12.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/12.png
     title: Get a recommendation
-  - image: /assets/images/lrug/13.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/13.png
     title: Try something new
-  - image: /assets/images/lrug/14.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/14.png
     title: Mind the ABV
-  - image: /assets/images/lrug/15.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/15.png
     title: Don't be a dick
-  - image: /assets/images/lrug/16.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/16.png
     title: How to beer
-  - image: /assets/images/lrug/17.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/17.png
     title: Appearance, Aroma, Mouthfeel, Taste
-  - image: /assets/images/lrug/18.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/18.png
     title: Appearance
-  - image: /assets/images/lrug/19.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/19.png
     title: Aroma
-  - image: /assets/images/lrug/20.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/20.png
     title: Mouthfeel
-  - image: /assets/images/lrug/21.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/21.png
     title: Taste
-  - image: /assets/images/lrug/22.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/22.png
     title: How to buy beer for a poker night
-  - image: /assets/images/lrug/23.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/23.png
     title: Cost <=> Flavour
-  - image: /assets/images/lrug/24.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/24.png
     title: Small range of classic styles
-  - image: /assets/images/lrug/25.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/25.png
     title: Check the dates; freshness matters
-  - image: /assets/images/lrug/26.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/26.png
     title: Special considerations...
-  - image: /assets/images/lrug/27.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/27.png
     title: Must go well with snacks
-  - image: /assets/images/lrug/28.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/28.png
     title: Your friends might have bad taste
-  - image: /assets/images/lrug/29.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/29.png
     title: Beer shouldn't detract from the main activity
-  - image: /assets/images/lrug/30.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/30.png
     title: How to pair beer with food when someone else is cooking
-  - image: /assets/images/lrug/31.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/31.png
     title: Belgian beers
-  - image: /assets/images/lrug/32.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/32.png
     title: Duvel, Orval, Chimay
-  - image: /assets/images/lrug/33.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/33.png
     title: Saison
-  - image: /assets/images/lrug/34.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/34.png
     title: Imperial stout or barleywine for dessert
-  - image: /assets/images/lrug/35.png
+  - image: https://s3.eu-west-2.amazonaws.com/krt-images/lrug/35.png
     title: Further reading and contact info
 ---
 
