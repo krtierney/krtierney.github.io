@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-02-25
+permalink: /2017/02/25/welcome-to-jekyll/
 ---
 
 I started out following the quick-start guide on [Jekyll docs](jekyll-docs):
