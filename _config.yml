@@ -17,7 +17,7 @@ title: K. Tierney
 email: k@krtierney.com
 description: > # this means to ignore newlines until "baseurl:"
   Web developer, writer, editor, photographer.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.krtierney.com"
 twitter_username: krtierney
 github_username: krtierney
