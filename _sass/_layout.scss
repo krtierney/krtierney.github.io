@@ -20,7 +20,7 @@
     text-decoration: none;
   }
 }
-.contact {
+.left-sidebar {
   margin: $spacing-unit 0;
   list-style: none;
   a {
@@ -29,11 +29,6 @@
   &:visited {
     color: $grey-color;
   }
-}
-
-.left-sidebar {
-  list-style: none;
-  margin: $spacing-unit 0;
 }
 
 .site-nav {
@@ -100,8 +95,8 @@
 
 /** Page content **/
 .page-content {
-  margin-top: 80px;
-  margin-left: 20%;
+  float: left;
+  padding: $spacing-unit;
 }
 
 .page-heading {
@@ -144,10 +139,6 @@
   @include media-query($on-laptop) {
     font-size: 36px;
   }
-
-  @include media-query($on-palm) {
-    font-size: 24px;
-  }
 }
 
 .post-content {
@@ -158,9 +149,6 @@
 
     @include media-query($on-laptop) {
       font-size: 28px;
-    }
-    @include media-query($on-palm) {
-      font-size: 22px;
     }
   }
 
@@ -178,91 +166,5 @@
     @include media-query($on-laptop) {
       font-size: 18px;
     }
-  }
-}
-
-@include media-query($on-palm) {
-  .contact {
-    margin-top: 5px;
-  }
-  .left-sidebar {
-    margin: 0;
-
-    > li {
-      display: inline-block;
-      padding: 0;
-    }
-  }
-  .site-header {
-    margin: 0;
-    clear: both;
-    display: block;
-  }
-  .page-content {
-    margin: 140px 0 0 0;
-  }
-  .icon {
-    padding: 0;
-  }
-}
-
-.flexslider {
-
-  margin: 0;
-  padding: 0;
-
-  .slides {
-
-    > li {
-
-      display: none;
-      -webkit-backface-visibility: hidden;
-
-    }
-
-    img{
-
-      width: 100%;
-      display: block;
-
-    }
-
-    &:after{
-
-      content: "\0020";
-      display: block;
-      clear: both;
-      visibility: hidden;
-      line-height: 0;
-      height: 0;
-
-
-    }
-
-    html[xmlns] &{
-
-      display: block;
-
-    }
-
-    * html &{
-
-      height: 1%;
-
-    }
-
-  }
-}
-
-.flex-direction-nav {
-  list-style: none;
-
-  li {
-    display: inline;
-  }
-
-  li:last-child {
-    text-align: right;
-    float: right;
   }
 }
