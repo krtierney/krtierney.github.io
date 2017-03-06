@@ -58,11 +58,6 @@ h1, h2, h3, h4, h5, h6 {
   color: $accent-color;
 }
 
-h1 {
-  font-weight: $base-font-weight * 2;
-  color: darken($grey-color, 10%);
-}
-
 /** Links **/
 a {
   color: $accent-color;
