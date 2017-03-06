@@ -253,3 +253,16 @@
 
   }
 }
+
+.flex-direction-nav {
+  list-style: none;
+
+  li {
+    display: inline;
+  }
+
+  li:last-child {
+    text-align: right;
+    float: right;
+  }
+}
