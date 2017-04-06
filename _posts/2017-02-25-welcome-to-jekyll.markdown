@@ -5,7 +5,7 @@ date:   2017-02-25
 permalink: /2017/02/25/welcome-to-jekyll/
 ---
 
-I started out following the quick-start guide on [Jekyll docs](jekyll-docs):
+I started out following the quick-start guide on [Jekyll docs](https://jekyllrb.com/docs/home/):
 
 {% highlight bash %}
 $ gem install jekyll
