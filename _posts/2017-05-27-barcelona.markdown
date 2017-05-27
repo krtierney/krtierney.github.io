@@ -72,11 +72,9 @@ jobs and routines.
 
 My little sister turned 30 years old earlier this month. To celebrate her
 birthday, she and her husband came to visit me in London, and then we all went
-on for a long weekend in Barcelona. This was my second visit there, and I never
-wanted to leave and can't wait to go back. The weather, the mountains, the
-seaside, the great food and gin, the architecture...it reminds me of my
-hometown, only better. If you're planning to visit Barcelona any time soon, here
-are my recommendations.
+for a long weekend in Barcelona. I never wanted to leave and can't wait to go
+back. The weather, the mountains, the seaside, the great food and gin, the
+architecture...it reminds me of my hometown, only better.
 
 * **Barcelona Street Art Tour**: We did the bike tour, and it was fantastic.
   It's hard to miss the marks made by the city's most prolific artists, but many
