@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A (Pointed) Guide to Beer"
+title: Visiting Barcelona
 date:   2017-05-27
 permalink: /2017/05/27/barcelona/
 carousel:
