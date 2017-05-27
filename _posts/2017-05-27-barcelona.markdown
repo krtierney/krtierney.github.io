@@ -113,17 +113,17 @@ are my recommendations.
   leisurely lunch. The service was excellent; the trinxat with kimchi were even
   better.
 
-* **Baracca**: We went to Baracca for paella, because even though we're all
-  vegetarian, it seemed like we should try paella at least once in Spain. It was
-  fine, and the presentation in a massive paella pan served at the table was
-  nice. In the moments before we were served paella, when I was drinking a
+* **Baracca**: Even though we're all vegetarian, it seemed like we should try
+  paella at least once in Spain. It was
+  fine, and nicely presentated in a massive paella pan served at the table. In
+  the moments the paella arrived, when I was drinking a
   crisp, dry white wine out of a high-quality thin-walled wine glass, stuffing
   my face with the creamiest, most flavorful burrata and feeling the sea breeze
   on my face and sunshine on my shoulders...now that's something I'll be
   dreaming about for years. So sure, go for the paella, but don't miss that burrata
   and do try to get a table with a sea view. It's _very_ nice.
 
-* **Sésamo**: We went to Sésamo for food after enduring one of [the worst "meals"
+* **Sésamo**: We went to Sésamo on C/ Sant Antoni Abat after enduring one of [the worst "meals"
 of my life](https://www.yelp.com/biz/beerlinale-barcelona). They have tons of 
 vegan options, including a dessert that came with a flame-charred vegan
 marshmallow, plus very nice service, and the food was good and reasonably priced.
