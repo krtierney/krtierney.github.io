@@ -74,7 +74,10 @@ My little sister turned 30 years old earlier this month. To celebrate her
 birthday, she and her husband came to visit me in London, and then we all went
 for a long weekend in Barcelona. I never wanted to leave and can't wait to go
 back. The weather, the mountains, the seaside, the great food and gin, the
-architecture...it reminds me of my hometown, only better.
+architecture...it reminds me of my hometown, only better. And you can thank her
+husband, Vance, for the food photos linked below! I apparently only had eyes for
+art and architecture, but his dedication to documenting our tapas adventures has
+paid off marvelously.
 
 * **Barcelona Street Art Tour**: We did the bike tour, and it was fantastic.
   It's hard to miss the marks made by the city's most prolific artists, but many
@@ -87,7 +90,9 @@ architecture...it reminds me of my hometown, only better.
 * **Xixbar**: On the corner of C/ Rocafort and C/ Tamarit is an unassuming little
   gin joint with a blue awning. Select from a long list of infused gins for a
   gin&tonic, or pick your favourite from their massive wall of gins to drink
-  neat. I went for a martini with Nordes gin, garnished with some of those fat,
+  neat. I went for a
+  [martini](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipMXE5CUZ1hd6xS67118uWZHstIR89qZT_5Inftu?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
+  with Nordes gin, garnished with one of those fat,
   juicy Spanish olives, and it was perfect. The smoked cardamom g&t was also
   pretty great.
 
@@ -106,17 +111,24 @@ architecture...it reminds me of my hometown, only better.
 * **Rasoterra**: Speaking of vegetarian food, Rasoterra is an all-vegetarian
   tapas restaurant right across the street from Base Elements on C/ Palau. A lot
   of the food in this part of town is touristy, low-quality, and overpriced, but
-  Rasoterra is phenomenal. They made us massive fishbowl gin&tonics with Gin
+  Rasoterra is phenomenal. They made us [massive fishbowl
+  gin&tonics](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipPQ4IC0RS6ElS3FeFCrUfdbpAwtQGS-fjg70ubN?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB) with Gin
   Mares, and we ordered nearly everything on the menu, enjoying a long,
-  leisurely lunch. The service was excellent; the trinxat with kimchi were even
+  leisurely lunch. The service was excellent; the [trinxat with
+  kimchi](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipOBBe4RgNDBMlzVJCI7UDjY2dX7YHNq7Da-pFoJ?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
+  were even
   better.
 
 * **Baracca**: Even though we're all vegetarian, it seemed like we should try
   paella at least once in Spain. It was
-  fine, and nicely presentated in a massive paella pan served at the table. In
-  the moments the paella arrived, when I was drinking a
+  fine, and [nicely
+  presented](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipNlSiYooUcMD_KlI6RmeRp9fdTc7PU_9SzZEN8o?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
+  in a massive paella pan served at the table. In
+  the moments before the paella arrived, when I was drinking a
   crisp, dry white wine out of a high-quality thin-walled wine glass, stuffing
-  my face with the creamiest, most flavorful burrata and feeling the sea breeze
+  my face with the creamiest, most flavorful
+  [burrata](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipP2K-j8274NjPdqa1_3Zp6sdbnUVGgZ8r-8MiGG?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
+  and feeling the sea breeze
   on my face and sunshine on my shoulders...now that's something I'll be
   dreaming about for years. So sure, go for the paella, but don't miss that burrata
   and do try to get a table with a sea view. It's _very_ nice.
@@ -150,7 +162,9 @@ they serve good coffee too, but I had wine with lunch instead.
 * **Xocolat and xurros**: On my first visit to Barcelona way back in 2007, I
 spent a lot of time searching for the best drinking chocolate and churros. After
 many taste-tests, I decided Petritxol Xocoa, at C/ Petritxol 11, was the best.
-This time around, the xurros were straight instead of curved, but other than
+This time around, the [xurros were
+straight](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipOBttt9zFTJeZioE-1_9Sb8OKnM_Slw7W5MjwT4?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
+instead of curved, but other than
 that it was exactly as I remembered. Order simply: thick, bittersweet custardy
 drinking chocolate with fluffy, chewy churros, and skip the cream. Perfection.
 
@@ -158,7 +172,9 @@ drinking chocolate with fluffy, chewy churros, and skip the cream. Perfection.
 recommended to me. I had a cold brew at Satan's and it was great. Good coffee
 doesn't seem to be too rare these days, but you could do a lot worse than this.
 
-* **Orxata?**: People widely recommended Orxateria Sirvent to us. Maybe it's
+* **Orxata?**: People widely recommended [Orxateria
+  Sirvent](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipM-ClPkrHGSjLcwhgiNo9vrR-Q_sKUtKxRyMjw6?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
+  to us. Maybe it's
   because I grew up with Mexican-style horchata, but I didn't find the Spanish
   orxata to my taste at all. Turns out it's [basically a completely different
   drink](http://randyclemens.com/2014/05/traditional-spanish-horchata-de-chufa-madrid-horchateria-alboraya/), made with tiger nuts instead of rice and cinnamon. Maybe just try it for

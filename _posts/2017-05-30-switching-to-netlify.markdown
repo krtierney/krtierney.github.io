@@ -19,8 +19,11 @@ I'm trying to
 [avoid](https://www.propublica.org/article/how-cloudflare-helps-serve-up-hate-on-the-web) 
 relying too heavily on their services.
 
-Anyway, wow, Netlify! It's amazing. It took me less than five minutes to create
-an account, trigger a build from my master branch on GitHub and verify that
+Anyway, wow, [Netlify](https://www.netlify.com)! It's amazing. It took me less
+than five minutes to create
+an account, trigger a build from my [master branch on
+GitHub](https://github.com/krtierney/krtierney.com)
+and verify that
 everything worked well before moving my DNS over and adding an SSL certificate.
 I couldn't be more impressed. The only final step was renaming my repo on GitHub
 to disable the link with GitHub Pages. Response times for loading the site have
