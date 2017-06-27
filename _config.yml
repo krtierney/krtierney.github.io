@@ -1,24 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: K. Tierney
 email: k@krtierney.com
-description: > # this means to ignore newlines until "baseurl:"
-  Web developer, writer, editor, photographer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.krtierney.com"
+description: Web developer, writer, editor, photographer.
+baseurl: ""
+url: "https://www.krtierney.com"
 twitter_username: krtierney
 github_username: krtierney
 linkedin_username: krtierney
@@ -29,7 +13,4 @@ google_analytics: UA-33302350-1
 markdown: kramdown
 gems:
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor # Fix: Invalid date '0000-00-00': Post '/vendor/bundle/ruby/2.3.0/gems/jekyll-2.4.0/lib/site_template/_posts/0000-00-00-welcome-to-jekyll.markdown.erb' does not have a valid date in the filename.
+exclude: [vendor]
