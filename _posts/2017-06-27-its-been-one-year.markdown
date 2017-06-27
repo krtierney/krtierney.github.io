@@ -88,18 +88,18 @@ something that's a bit of a divisive topic: Code review. After years of hacking
 away at things and making them work, it's so refreshing to have the confidence
 to share my code with a mentor and get feedback (even when the feedback is
 basically, "Tear it all down and start over, but here's where to start and what
-to think about). I've been really fortunate to work alongside great developers
+to think about"). I've been really fortunate to work alongside great developers
 who give thoughtful, considered feedback and are exactly as pedantic as I'd like
 them to be. I've gotten great feedback about design decisions, architectural
 patterns, structuring database queries, and how to optimise for performance, and
 I've learned that naming things probably isn't as hard as everyone thinks it
-is—at least, if you've got a decade of writing and editing experience under your
+is—at least, not if you've got a decade of writing and editing experience under your
 belt.
 
 I'm extremely grateful for everyone who took a chance on me and helped me get
 this far over the past year—pretty sure you know who you are already, and naming
 names feels a bit gauche. I plan to repay that debt by putting in the effort to
-grow into contributing member of the community, continually fighting against
+grow into a contributing member of the community, continually fighting against
 discrimination and cultural hegemony, helping to encourage aspiring developers
 to boldly pursue their dreams, and calling out bullshit and bad takes whenever I
 see them. In short, I'll continue to just be myself, but I'll probably get
