@@ -56,7 +56,7 @@ clients in the healthcare sector: Indiana University Health, Roche Diagnostics, 
 
 ## 2013
 
-* I edited [Distance](http://distance.cc), a quarterly publication of long-form writing about design and technology.
+* I edited _Distance_, a quarterly publication of long-form writing about design and technology.
 * Finally made it to the very top of Half Dome in Yosemite, after making my first attempt 15 years earlier.
 
 
