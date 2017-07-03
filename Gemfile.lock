@@ -107,7 +107,6 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.2.3)
   rake
-  tzinfo-data
 
 RUBY VERSION
    ruby 2.3.1p112
