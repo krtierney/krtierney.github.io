@@ -3,11 +3,13 @@ require 'rubocop/rake_task'
 
 task :default do
   sh 'bundle exec jekyll build'
-  options = {
+  opts = {
     assume_extension: true,
     checks_to_ignore: ['ImageCheck'],
     url_ignore: ['https://linkedin.com/in/krtierney']
   }
-  HTMLProofer.check_directory('./_site', options).run
-  RuboCop::RakeTask.new
+  HTMLProofer.check_directory('./_site', opts).run
+  RuboCop::RakeTask.new(:rubocop) do |t|
+    t.options = ['--display-cop-names']
+  end
 end
