@@ -7,6 +7,9 @@ published: true
 
 ## 2017
 
+* Visited [Japan](https://www.instagram.com/p/BWuf2aVjXzj/),
+  climbed Mt Fuji, ate a lot of [vegan
+  ramen](https://www.instagram.com/p/BWUkSxpDE5f/)
 * Apprentice Developer at [Happy Bear Software](https://www.happybearsoftware.com)
 * Visited [Helsinki](https://www.instagram.com/p/BTeq7OtjWPB/),
 [Barcelona](https://www.instagram.com/p/BUCYTcmD_ki/)
