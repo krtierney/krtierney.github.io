@@ -4,59 +4,59 @@ title: Visiting Barcelona
 date:   2017-05-27
 permalink: /2017/05/27/barcelona/
 carousel:
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-2.jpg
-    title: Barcelona bicyclist 
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-3.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-2.jpg
+    title: Barcelona bicyclist
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-3.jpg
     title: Makenzie in Barceloneta
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-4.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-4.jpg
     title: Makenzie and Vance look at photos
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-5.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-5.jpg
     title: Through the looking glass
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-6.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-6.jpg
     title: Skull and geometric collaboration at BCN zoo
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-7.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-7.jpg
     title: Poblenou love street art mural
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-8.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-8.jpg
     title: Makenzie on a bicycle
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-9.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-9.jpg
     title: Snake face wall mural
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-10.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-10.jpg
     title: btoy portrait
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-11.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-11.jpg
     title: Uriginal with btoy collab
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-12.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-12.jpg
     title: fishcone mural
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-13.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-13.jpg
     title: Mike on a bike
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-14.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-14.jpg
     title: full building front + btoy 
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-15.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-15.jpg
     title: Corn mural on condemned building
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-16.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-16.jpg
     title: 👉 👌 fingers painted wall
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-17.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-17.jpg
     title: beautiful girl portrait
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-18.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-18.jpg
     title: Makenzie and Vance at Sagrada Familia
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-19.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-19.jpg
     title: Sagrada Familia doorway
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-20.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-20.jpg
     title: Sagrada Familia interior
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-21.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-21.jpg
     title: Adam inside Sagrada Familia
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-22.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-22.jpg
     title: Sagrada Familia stained glass
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-23.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-23.jpg
     title: Palau Guell stable tie
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-24.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-24.jpg
     title: Makenzie inside Palau Guell
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-25.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-25.jpg
     title: Palau Guell chandelier, ceiling, and stained glass
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-26.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-26.jpg
     title: Palau Guell lighting and doorway details
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-27.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-27.jpg
     title: Palau Guell roof main tower
-  - image: https://s3.eu-west-2.amazonaws.com/krt-images/2017/bcn201705-28.jpg
+  - image: https://dmczk0zvabdmt.cloudfront.net/2017/bcn201705-28.jpg
     title: Palau Guell rooftop chimneys
 ---
 I travel _a lot_. Exploring new places and breaking up my routine has been the
