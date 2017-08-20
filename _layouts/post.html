@@ -15,7 +15,7 @@ layout: default
     <div class="flexslider">
       <ul class="slides">
        {% for slides in page.carousel %}
-        <li><img src="{{ slides.image }}"></li>
+       <li><img src="{{ slides.image }}" alt="{{ slides.title }}"></li>
        {% endfor %}
       </ul>
     </div>
