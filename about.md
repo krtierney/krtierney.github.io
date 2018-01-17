@@ -4,6 +4,10 @@ title: Timeline
 permalink: /about/
 published: true
 ---
+## 2018
+
+* Senior Developer at [Happy Bear Software](https://www.happybearsoftware.com)
+* Trying to re-learn how to play guitar
 
 ## 2017
 
@@ -33,7 +37,7 @@ in the [best bar in London](http://everycloudbar.com)
 ## 2015
 
 * I moved to London.
-* Started calling myself a writer once I started getting paid for blogging: [Jezebel](http://jezebel.com/one-weird-trick-female-animals-use-to-control-who-gets-1686766202), [Everything Will Be Noble](http://www.everythingwillbenoble.com/blog/trekking-in-tierra-del-fuego).
+* Started calling myself a writer once I started getting paid for blogging: [Jezebel](http://jezebel.com/one-weird-trick-female-animals-use-to-control-who-gets-1686766202)
 * Worked for BrewDog at their bar in Shoreditch and bottle shop in King's Cross. Handled social media, events, and revived their email newsletter.
 * Passed the Certified Cicerone examination. I'm literally certified to be a beer snob.
 * Ate a lot of pizza in [Rome](https://www.instagram.com/p/-Rb1rsSFXz/)
