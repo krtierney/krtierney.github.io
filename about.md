@@ -6,8 +6,10 @@ published: true
 ---
 ## 2018
 
+* Learning conversational Italian thanks to the magic of Duolingo
 * Senior Developer at [Happy Bear Software](https://www.happybearsoftware.com)
-* Trying to re-learn how to play guitar
+* Went on a pretty amazing boat tour of the Scottish Highlands and Islands
+* Participating in far too many book clubs, reading [all the books](https://www.librarything.com/catalog/kaitlynmeans)
 
 ## 2017
 
