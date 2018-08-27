@@ -75,16 +75,6 @@
       }
     }
 
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:focus .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
     .page-link {
       display: block;
       padding: 5px 10px;
@@ -127,7 +117,9 @@
   font-size: 24px;
 }
 
-
+.home > ul {
+  list-style: none;
+}
 
 /**
  * Posts

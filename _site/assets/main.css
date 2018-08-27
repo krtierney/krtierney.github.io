@@ -178,12 +178,6 @@ pre {
         text-align: center; }
         .site-nav .menu-icon > svg path {
           fill: #424242; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
       .site-nav .page-link {
         display: block;
         padding: 5px 10px;
@@ -212,6 +206,9 @@ pre {
 .post-link {
   display: block;
   font-size: 24px; }
+
+.home > ul {
+  list-style: none; }
 
 /**
  * Posts
