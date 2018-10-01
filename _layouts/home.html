@@ -4,10 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1>Currently...</h1>
+  <h1>Reading recently...</h1>
   <ul>
-    <li>Reading <em>Titus Groan</em></li>
-    <li>Planning a trip to see the Alhambra in Granada</li>
-    <li>Trying to remember how to cook with autumnal vegetables</li>
+    {% for book in site.data.library.books %}
+    <li>{{ book.details }}</li>
+    {% endfor %}
   </ul>
 </div>
