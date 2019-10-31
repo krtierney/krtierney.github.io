@@ -7,7 +7,7 @@ published: true
 ## 2018
 
 * Learning conversational Italian thanks to the magic of Duolingo
-* Senior Developer at [Happy Bear Software](https://www.happybearsoftware.com)
+* Senior Developer at Happy Bear Software (RIP)
 * Went on a pretty amazing boat tour of the Scottish Highlands and Islands
 * Participating in far too many book clubs, reading [all the books](https://www.librarything.com/catalog/kaitlynmeans)
 
@@ -16,7 +16,7 @@ published: true
 * Visited [Japan](https://www.instagram.com/p/BWuf2aVjXzj/),
   climbed Mt Fuji, ate a lot of [vegan
   ramen](https://www.instagram.com/p/BWUkSxpDE5f/)
-* Apprentice Developer at [Happy Bear Software](https://www.happybearsoftware.com)
+* Apprentice Developer at Happy Bear Software
 * Visited [Helsinki](https://www.instagram.com/p/BTeq7OtjWPB/),
 [Barcelona](https://www.instagram.com/p/BUCYTcmD_ki/)
 * Countless [hours of complicated board

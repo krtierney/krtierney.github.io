@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
-ruby '2.3.1'
+ruby '2.6.2'
 
 gem 'jekyll'
 
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.2.3'
+  gem 'jekyll-feed'
 end
 
 group :test do
