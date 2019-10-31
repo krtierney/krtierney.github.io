@@ -10,6 +10,6 @@ instagram_username: ktierney
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude: [vendor]
