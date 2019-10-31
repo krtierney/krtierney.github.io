@@ -176,7 +176,7 @@ doesn't seem to be too rare these days, but you could do a lot worse than this.
   Sirvent](https://photos.google.com/share/AF1QipOtglkuIYBSMB2oUosgFy8tINtUOU3kQ4TOquFzu9EyOto2VKh-TzStSdl0H9IIkQ/photo/AF1QipM-ClPkrHGSjLcwhgiNo9vrR-Q_sKUtKxRyMjw6?key=SDdqVUhJVHZXZEEzYm5ZQWcwSWIzUEc0azdVX0dB)
   to us. Maybe it's
   because I grew up with Mexican-style horchata, but I didn't find the Spanish
-  orxata to my taste at all. Turns out it's [basically a completely different
-  drink](http://randyclemens.com/2014/05/traditional-spanish-horchata-de-chufa-madrid-horchateria-alboraya/), made with tiger nuts instead of rice and cinnamon. Maybe just try it for
+  orxata to my taste at all. Turns out it's basically a completely different
+  drink, made with tiger nuts instead of rice and cinnamon. Maybe just try it for
   yourself though; cups are small and only a couple euro.
 
