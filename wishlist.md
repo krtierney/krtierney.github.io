@@ -19,7 +19,7 @@ My birthday is in November. Sometimes, my friends and family ask what's on my wi
 * A wine chiller of any sort really, but [this Le Creuset one](https://www.lecreuset.co.uk/cooler-sleeve) looks like it's good for a small flat and effective at chilling.
 * ~~I like the idea of [a book subscription](https://www.libreria-subscribe.com)~~
 * Practice locks so I can work on my lockpicking skills
-* [A membership to the Barbican](https://www.barbican.org.uk/join-support/membership)
+* ~~ [A membership to the Barbican](https://www.barbican.org.uk/join-support/membership)~~
 * ~~[A baking class](https://www.thedustyknuckle.com/classes) from the makers of my favourite sourdough bread~~
 * ~~La Croix. My favourite flavour is pamplemousse, but I like a lot of the other ones too, like peach/pear and lime.~~
 * An extremely large quantity of my Dad's [homemade Chex mix](/means-family-chex-mix). I would also accept, if you are not my dad, a shipment of all of the ingredients necessary to prepare it myself. Some of these things are really difficult to find in London, and schlepping them all home is enough of a pain in the ass that I haven't bothered to make any at home since moving to England.
