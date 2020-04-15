@@ -4,12 +4,33 @@ title: Timeline
 permalink: /about/
 published: true
 ---
+
+## 2020
+
+* Baking, and eating, a lot of [sourdough](https://www.instagram.com/p/B9O_pi7BweR/) bread
+* Staying the fuck home
+* Transitioning back into engineering work and away from management (long story)
+* Tirelessly documenting the [life and times](https://www.instagram.com/p/B9z8BGchEgq/) of my [neighbours' cat](https://www.instagram.com/p/B97Pgpml_KG/)
+
+## 2019
+
+* Visited [Japan](https://www.instagram.com/p/BxLKO-NnRFk/), twice, and had the best [times](https://www.instagram.com/p/B0cCoXihezM/) in the best [places](https://www.instagram.com/p/B0M7YJ9lamr/)
+* Promoted to Tech Lead Manager at Loco2
+* Traveled around Spain by [boat and train](https://www.instagram.com/p/B1EAj0eFppx/)
+* Loco2 becomes [Rail Europe UK](https://raileurope.co.uk) (This was an _intense_ introduction to engineering management)
+* [Family vacation](https://www.instagram.com/p/B3zlR0Pl4pS/) in the Yucatan
+* Created an [engineering progression](../../eng-progression.pdf) for the 15-dev team because [flat is bad](https://avdi.codes/in-grudging-defense-of-structure/)
+
 ## 2018
 
 * Learning conversational Italian thanks to the magic of Duolingo
 * Senior Developer at Happy Bear Software (RIP)
 * Went on a pretty amazing boat tour of the Scottish Highlands and Islands
 * Participating in far too many book clubs, reading [all the books](https://www.librarything.com/catalog/kaitlynmeans)
+* Went on a family vacation to southern [Italy](https://www.instagram.com/p/BnwfQSql8E1/)
+* Took a solo trip to Granada to see [La Alhambra](https://www.instagram.com/p/Bo1bPuVA7Qp/)
+* Senior Software Engineer at Loco2 (RIP)
+* Blew all my savings on [\*REDACTED[\*](https://www.instagram.com/p/Bq4gFasn2kb/)]
 
 ## 2017
 
