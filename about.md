@@ -8,9 +8,9 @@ published: true
 ## 2020
 
 * Baking, and eating, a lot of [sourdough](https://www.instagram.com/p/B9O_pi7BweR/) bread
-* Staying the fuck home
-* Transitioning back into engineering work and away from management (long story)
+* Transitioning back into engineering work and away from management, recovering from burnout, [looking for a new job](https://github.com/krtierney)
 * Tirelessly documenting the [life and times](https://www.instagram.com/p/B9z8BGchEgq/) of my [neighbours' cat](https://www.instagram.com/p/B97Pgpml_KG/)
+* Trying to find the most pandemic-compatible holiday options in lieu of a family vacation (we took a sleeper [train](https://www.instagram.com/p/CF4zbUtlzX1/) to [Scotland](https://www.instagram.com/p/CF6loB-lvWM/), I spent a week on a [boat](https://www.instagram.com/p/CGc9i6HluUX/) in the [Red Sea](https://www.instagram.com/p/CGbwtc5FpZt/))
 
 ## 2019
 
