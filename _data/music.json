@@ -1,5 +1,17 @@
 { "albums": [ 
   {
+    "artist": "Ley Line",
+    "title": "We Saw Blue",
+    "releaseDate": {
+      "day": "04",
+      "month": "12",
+      "year": "2020"
+    },
+    "spotifyUrl": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T",
+    "bandcampUrl": "",
+    "notes": ""
+  },
+  {
     "artist": "Soccer Mommy",
     "title": "color theory",
     "releaseDate": {
