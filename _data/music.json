@@ -1,0 +1,580 @@
+{ "albums": [ 
+  {
+    "artist": "Soccer Mommy",
+    "title": "color theory",
+    "releaseDate": {
+      "day": "28",
+      "month": "02",
+      "year": "2020"
+    },
+    "spotifyUrl": "",
+    "bandcampUrl": "https://sopharela.bandcamp.com/album/color-theory",
+    "notes": ""
+  },
+  {
+      "artist": "Wendy Eisenberg",
+      "title": "Auto",
+      "releaseDate": {
+        "day": "16",
+        "month": "11",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://badabingrecords.bandcamp.com/album/auto",
+      "notes": ""
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Good News",
+      "releaseDate": {
+        "day": "20",
+        "month": "11",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r?si=epjVP0YaSB6v5a3HV5fJgg",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "Hypoluxo",
+      "title": "Hypoluxo",
+      "releaseDate": {
+        "day": "20",
+        "month": "11",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://hypoluxoxoxo.bandcamp.com/album/hypoluxo",
+      "notes": ""
+    },
+    {
+      "artist": "Kelly Stoltz",
+      "title": "Ah! (etc)",
+      "releaseDate": {
+        "day": "20",
+        "month": "11",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://kelleystoltzagitated.bandcamp.com/album/ah-etc",
+      "notes": ""
+    },
+    {
+      "artist": "Seba Kaapstad",
+      "title": "Konke",
+      "releaseDate": {
+        "day": "13",
+        "month": "11",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://sebakaapstad.bandcamp.com/album/konke",
+      "notes": ""
+    },
+    {
+      "artist": "RU$H, Tha God Fahim, Jay Nice",
+      "title": "AN ALBUM CALLED CLASSIC",
+      "releaseDate": {
+        "day": "28",
+        "month": "10",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://rushofficialmusic.bandcamp.com/album/an-album-called-classic",
+      "notes": ""
+    },
+    {
+      "artist": "Drew Citron",
+      "title": "Free Now",
+      "releaseDate": {
+        "day": "09",
+        "month": "10",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://drewcitron.bandcamp.com/album/free-now",
+      "notes": ""
+    },
+    {
+      "artist": " Cartalk",
+      "title": "Pass Like Pollen",
+      "releaseDate": {
+        "day": "02",
+        "month": "10",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://cartalk.bandcamp.com/album/pass-like-pollen",
+      "notes": ""
+    },
+    {
+      "artist": "Takuya Kuroda",
+      "title": "Fly Moon Die Soon",
+      "releaseDate": {
+        "day": "18",
+        "month": "09",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://takuyakuroda.bandcamp.com/album/fly-moon-die-soon",
+      "notes": ""
+    },
+    {
+      "artist": "Spillage Village",
+      "title": "Spilligion",
+      "releaseDate": {
+        "day": "25",
+        "month": "09",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy?si=Ts-2P6XWSJmH_SIuzZBBag",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "Le Couleur",
+      "title": "Concorde",
+      "releaseDate": {
+        "day": "11",
+        "month": "09",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://lecouleurmusic.bandcamp.com/album/concorde",
+      "notes": ""
+    },
+    {
+      "artist": "Naked Roommate",
+      "title": "Do the Duvet",
+      "releaseDate": {
+        "day": "04",
+        "month": "09",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://nakedroommate.bandcamp.com/album/do-the-duvet",
+      "notes": ""
+    },
+    {
+      "artist": "Big Sean",
+      "title": "Detroit 2",
+      "releaseDate": {
+        "day": "04",
+        "month": "09",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3?si=sODzElFjTxWxYkI65WUpGQ",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "SUGAREGG",
+      "title": "Bully",
+      "releaseDate": {
+        "day": "21",
+        "month": "08",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://bullythemusic.bandcamp.com/album/sugaregg",
+      "notes": ""
+    },
+    {
+      "artist": "thank you, im sorry",
+      "title": "I'm Glad We're Friends",
+      "releaseDate": {
+        "day": "21",
+        "month": "08",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://thankyouimsorry.bandcamp.com/album/im-glad-were-friends",
+      "notes": ""
+    },
+    {
+      "artist": "Thanya Iyer",
+      "title": "KIND",
+      "releaseDate": {
+        "day": "31",
+        "month": "07",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/293y7ywkyFHlRH6QHPIMpp?si=x8QqPdzqRxGFrm9IGlNlaQ",
+      "bandcampUrl": "https://thanyaiyer.bandcamp.com",
+      "notes": ""
+    },
+    {
+      "artist": "Kamaal Williams",
+      "title": "Wu Hen",
+      "releaseDate": {
+        "day": "24",
+        "month": "07",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp?si=BafDHJDqQSiwJ3jzC1C_ZA",
+      "bandcampUrl": "https://kamaalwilliams.bandcamp.com/album/wu-hen",
+      "notes": ""
+    },
+    {
+      "artist": "BAD MOVES",
+      "title": "Untenable",
+      "releaseDate": {
+        "day": "26",
+        "month": "06",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/3sWvcSqRLgn42hArHBPMyu?si=EaThvh_TSumki4fuZ8gvww",
+      "bandcampUrl": "https://badmoves.bandcamp.com/album/untenable",
+      "notes": ""
+    },
+    {
+      "artist": "Jeff Rosenstock",
+      "title": "NO DREAM",
+      "releaseDate": {
+        "day": "20",
+        "month": "05",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/0WryIdPBSezBZ7K9G0OHhl?si=5Q_e-bW9RtuV8iZtC5oPRQ",
+      "bandcampUrl": "https://jeffrosenstock.bandcamp.com/album/no-dream",
+      "notes": ""
+    },
+    {
+      "artist": "NNAMDÏ",
+      "title": "KRAZY KARL",
+      "releaseDate": {
+        "day": "03",
+        "month": "07",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://nnamdiogbonnaya.bandcamp.com/album/krazy-karl",
+      "notes": ""
+    },
+    {
+      "artist": "Daniel Avery",
+      "title": "Love + Light",
+      "releaseDate": {
+        "day": "26",
+        "month": "06",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "http://danielavery.bandcamp.com/album/love-light",
+      "notes": ""
+    },
+    {
+      "artist": "Coriky",
+      "title": "Coriky",
+      "releaseDate": {
+        "day": "12",
+        "month": "06",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://coriky.bandcamp.com/album/coriky",
+      "notes": ""
+    },
+    {
+      "artist": "covet",
+      "title": "technicolor",
+      "releaseDate": {
+        "day": "05",
+        "month": "06",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://covetband.bandcamp.com/album/technicolor",
+      "notes": ""
+    },
+    {
+      "artist": "Modern Nature",
+      "title": "Annual",
+      "releaseDate": {
+        "day": "05",
+        "month": "06",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/39b3Dby0olCabHYaekVon7?si=egrhmDdHTcGxjVbHBXnSrw",
+      "bandcampUrl": "https://modernnature.bandcamp.com/album/annual",
+      "notes": ""
+    },
+    {
+      "artist": "Marker Starling",
+      "title": "High January",
+      "releaseDate": {
+        "day": "24",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "",
+      "bandcampUrl": "https://tinangelrecords.bandcamp.com/album/high-january",
+      "notes": ""
+    },
+    {
+      "artist": "Varsity",
+      "title": "Fine Forever",
+      "releaseDate": {
+        "day": "29",
+        "month": "05",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/77iAxkhauPR3UR8RYNqQFj?si=uv5wdnJrSFeHozefQ0T-2A",
+      "bandcampUrl": "https://varsity.bandcamp.com/album/fine-forever",
+      "notes": ""
+    },
+    {
+      "artist": "Red Mass",
+      "title": "A Hopeless Noise",
+      "releaseDate": {
+        "day": "24",
+        "month": "01",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/3ODTWCjwELWWZoMvQTCTTy?si=llG6GCELTh6Pe_KSy5oCtA",
+      "bandcampUrl": "https://redmass.bandcamp.com/album/a-hopeless-noise",
+      "notes": ""
+    },
+    {
+      "artist": "Princess Nokia",
+      "title": "Everything is Beautiful",
+      "releaseDate": {
+        "day": "26",
+        "month": "02",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv?si=Eu5IvtdtQCu---b_tncJbA",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "The Orielles",
+      "title": "Disco Volador",
+      "releaseDate": {
+        "day": "10",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/2yzVgc23QD1GunHR1mVpB8?si=dXu4uWl4RVKvKyr5JhYIhw",
+      "bandcampUrl": "https://theorielles.bandcamp.com/album/disco-volador",
+      "notes": ""
+    },
+    {
+      "artist": "Caribou",
+      "title": "Suddenly",
+      "releaseDate": {
+        "day": "02",
+        "month": "28",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw?si=-yKRAFRlS7OdNd4emahVEg",
+      "bandcampUrl": "https://caribouband.bandcamp.com/album/suddenly",
+      "notes": ""
+    },
+    {
+      "artist": "Frances Quinlan",
+      "title": "Likewise",
+      "releaseDate": {
+        "day": "13",
+        "month": "01",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/7rFS6udH3EVoKpgVs2QsSG?si=rGDU8JjeRtK_GFrGRE9v-g",
+      "bandcampUrl": "https://francesquinlan.bandcamp.com/album/likewise",
+      "notes": ""
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Suga (EP)",
+      "releaseDate": {
+        "day": "06",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI?si=BhKlP18GS0-eR7Gp2MsTLw",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "Four Tet",
+      "title": "Sixteen Oceans",
+      "releaseDate": {
+        "day": "13",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ?si=b6TjfpU7TLyR5rZE08E89w",
+      "bandcampUrl": "https://fourtet.bandcamp.com/album/sixteen-oceans",
+      "notes": ""
+    },
+    {
+      "artist": "Chika",
+      "title": "Industry Games",
+      "releaseDate": {
+        "day": "13",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0?si=Gc1IUotsRmKZ59i94t-shA",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "Empty Country",
+      "title": "Empty Country",
+      "releaseDate": {
+        "day": "20",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/1J7lWOhAGflNwS8Tv5d8M6?si=JsA3d16PRIqDGBEFIosMzg",
+      "bandcampUrl": "https://emptycountry.bandcamp.com/album/empty-country",
+      "notes": ""
+    },
+    {
+      "artist": "Childish Gambino",
+      "title": "3.15.20",
+      "releaseDate": {
+        "day": "03",
+        "month": "15",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz?si=QN35G5wmRNKPiDQEpa0fEA",
+      "bandcampUrl": "",
+      "notes": ""
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Future Nostalgia",
+      "releaseDate": {
+        "day": "27",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI?si=ynXBC84fSVmulBjxBvBtmw",
+      "bandcampUrl": "",
+      "notes": "The album I listened to most while shaking my booty in the kitchen, cooking up elaborate quarantine meals or making sourdough bread."
+    },
+    {
+      "artist": "Suck This Tangerine",
+      "title": "Las Kellies",
+      "releaseDate": {
+        "day": "03",
+        "month": "27",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/4Gd97oKm5sEC3iG5IZ9RbN?si=EUlpP7l0RtCoGduiyxC0Sg",
+      "bandcampUrl": "https://laskelliesmusic.bandcamp.com/album/suck-this-tangerine",
+      "notes": ""
+    },
+    {
+      "artist": "NNAMDÏ",
+      "title": "BRAT",
+      "releaseDate": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/6lLwTUgYZzc4OmoAInFNa1?si=V-oAQQDnSb6YgdjqFYMn2w",
+      "bandcampUrl": "https://nnamdiogbonnaya.bandcamp.com/album/brat",
+      "notes": ""
+    },
+    {
+      "artist": "Thundercat",
+      "title": "It Is What It Is",
+      "releaseDate": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9?si=aExki9LQQLCzWMg9CW2HWA",
+      "bandcampUrl": "https://thundercat.bandcamp.com/album/it-is-what-it-is",
+      "notes": ""
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "title": "The Don Of Diamond Dreams",
+      "releaseDate": {
+        "day": "17",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/3SCw5AabAqeNygf0OUDVUn?si=c5i6D5fCSwKu2DX3v-0tTw",
+      "bandcampUrl": "https://shabazzpalaces.bandcamp.com/album/the-don-of-diamond-dreams",
+      "notes": ""
+    },
+    {
+      "artist": "Yazmin Lacey",
+      "title": "Morning Matters",
+      "releaseDate": {
+        "day": "07",
+        "month": "03",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/0NsiyVH1KVp6MhCyeJWIKJ?si=08M-6v4YSGuObrYHIRQAaA",
+      "bandcampUrl": "https://yazminlacey.bandcamp.com/album/morning-matters",
+      "notes": ""
+    },
+    {
+      "artist": "Jeffrey Silverstein",
+      "title": "You Become the Mountain",
+      "releaseDate": {
+        "day": "03",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/2ec42BYaEMR3gyWam3MSyR?si=9jVu1wYeRjqVWrAfyHuelg",
+      "bandcampUrl": "https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain",
+      "notes": ""
+    },
+    {
+      "artist": "Quelle Chris and Chris Keys",
+      "title": "Innocent Country 2",
+      "releaseDate": {
+        "day": "24",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/30hEhSuHVZ9dsUYDX7qabr?si=WT8pAPtFTuuSL0H0eI6PQw",
+      "bandcampUrl": "https://quellechris360.bandcamp.com/album/innocent-country-2-2",
+      "notes": ""
+    },
+    {
+      "artist": "X",
+      "title": "Alphabetland",
+      "releaseDate": {
+        "day": "22",
+        "month": "04",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/2rqn3T6DVKs9nWpeVXYTXB?si=XNRu14FjTgm3JiP_Lp75IQ",
+      "bandcampUrl": "https://xtheband.bandcamp.com/album/alphabetland",
+      "notes": ""
+    },
+    {
+      "artist": "Moodymann",
+      "title": "Taken Away",
+      "releaseDate": {
+        "day": "21",
+        "month": "05",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/5bOYK3R5KjuG6CEInqWF0w?si=UX0Dkn4oTYOw7GImb94NyQ",
+      "bandcampUrl": "https://moodymann.bandcamp.com/album/taken-away-kdj-49",
+      "notes": ""
+    },
+    {
+      "artist": "Keleketla! and buncha other people",
+      "title": "Keleketla! Remixes",
+      "releaseDate": {
+        "day": "01",
+        "month": "12",
+        "year": "2020"
+      },
+      "spotifyUrl": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh?si=LrE_uZLGSDKA-e-TNvKvkQ",
+      "bandcampUrl": "https://coldcut.bandcamp.com/album/keleketla-remixes",
+      "notes": "Good listening for all of the 2020 activities: sitting at my desk programming or drawing or studying or writing, dancing around my house vacuuming, and putting away laundry. Proceeds from the release will go to the Free West Papua Campaign."
+    }
+  ]
+}
+

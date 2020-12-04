@@ -1,0 +1,36 @@
+ul.grid {
+  display: grid;
+  grid-gap: 12px;
+  margin-left: 0 !important;
+  margin-top: 2em;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+  }
+
+  li {
+    background-color: $grey-color-light;
+    border-top: 1px $accent-color solid;
+    list-style: none;
+    padding: 12px;
+
+    a {
+      font-size: $small-font-size;
+    }
+
+    h2 {
+      font-size: $base-font-size;
+      color: $grey-color-dark;
+    }
+
+    p {
+      font-size: $small-font-size;
+    }
+  }
+
+  .notes {
+    display: none;
+  }
+}
+
