@@ -9,7 +9,20 @@
     },
     "spotifyUrl": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T",
     "bandcampUrl": "",
-    "notes": ""
+    "notes": "",
+    "color": "#e08d35"
+  },
+  {
+    "artist": "King Hannah",
+    "title": "Tell Me Your Mind and I'll Tell You Mine (EP)",
+    "releaseDate": {
+      "day": "20",
+      "month": "11",
+      "year": "2020"
+    },
+    "spotifyUrl": "",
+    "bandcampUrl": "https://kinghannah.bandcamp.com/album/tell-me-your-mind-and-ill-tell-you-mine",
+    "notes": "I love this for writing sad stories"
   },
   {
     "artist": "Soccer Mommy",
