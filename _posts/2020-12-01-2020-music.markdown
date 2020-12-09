@@ -5,19 +5,26 @@ date: 2020-12-01
 permalink: /2020-music/
 ---
 
-Like so many others, I started 2020 with some modest goals bourne out of introspection. I didn't post a big 2010's recap at the end of 2019, but privately I took stock. I reflected on the things I learned over the past decade, and the ways the world has changed and will change. I tried very hard to get myself into a positive, proactive mindset for making the world a better place and trying to live my best life, or some balance in between.
+Just a whole bunch of music released in 2020 year that made me feel some type of way. If I've missed anything you think I'd love, feel free to get in touch.
 
-And then, one by one, I saw all of my flights for the year cancelled, all of my precious and rare opportunities to see my loved ones—the aging, the infant, and everyone in between—erased from the calendar. I saw people I care for suffer, through illness or the loss of fathers and grandfathers, grandmothers and friends. I sat numbly in front of my screens, watching the numbers of dead and dying tick ever-upwards. Or I distracted myself from the outside world, filling my flat with the heady aroma of fresh sourdough bread or the thumping repetition of smash-hit earworm "WAP".
+## Songs
+A Spotify playlist of songs I listened to over and over
 
-I listened to a lot of music this year. Sharing a one-bedroom flat 24/7 with another person was a new experience for me. With good headphones and frequent new music releases, I've sheltered myself from inadvertently overhearing my partner's conversations with students, his faculty meetings, dissertation defenses and online conferences. The following list isn't an endorsement of any of these artists as people, or necessarily a recommendation. It's just a whole bunch of music I heard this year that made me feel some type of way.
+<iframe src="https://open.spotify.com/embed/playlist/5Eqm1mEzYgKQsusoXgrTYP" width="100%" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br />
+
+---
+## Albums(ish)
+A list of albums, compilations, EPs, mixtapes, etc., with links to Bandcamp pages or to Spotify.
 
 <ul class="grid">
 {% for album in site.data.music.albums %}
   <li>
   {% if album.bandcampUrl.size > 1 %}
-    <h2><a href="{{ album.bandcampUrl }}">{{ album.title }} by {{ album.artist }}</a></h2>
+    <p class="title"><a href="{{ album.bandcampUrl }}">{{ album.title }} by {{ album.artist }}</a></p>
   {% else if album.spotifyUrl.size > 1 %}
-    <h2><a href="{{ album.spotifyUrl }}">{{ album.title }} by {{ album.artist }}</a></h2>
+    <p class="title"><a href="{{ album.spotifyUrl }}">{{ album.title }} by {{ album.artist }}</a></p>
   {% endif %}
     <p class="notes">{{ album.notes }}</p>
   </li>

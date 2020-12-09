@@ -18,15 +18,10 @@ ul.grid {
     a {
       font-size: $small-font-size;
     }
-
-    h2 {
-      font-size: $base-font-size;
-      color: $grey-color-dark;
-    }
-
-    p {
-      font-size: $small-font-size;
-    }
+  }
+  .title {
+    font-size: $base-font-size;
+    color: $grey-color-dark;
   }
 
   .notes {
