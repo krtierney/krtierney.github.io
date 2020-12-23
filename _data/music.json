@@ -1,5 +1,17 @@
 { "albums": [ 
   {
+    "artist": "Oceanator",
+    "title": "We Saw Blue",
+    "releaseDate": {
+      "day": "28",
+      "month": "08",
+      "year": "2020"
+    },
+    "spotifyUrl": "",
+    "bandcampUrl": "https://oceanator.bandcamp.com/album/things-i-never-said",
+    "notes": ""
+  },
+  {
     "artist": "Ley Line",
     "title": "We Saw Blue",
     "releaseDate": {
