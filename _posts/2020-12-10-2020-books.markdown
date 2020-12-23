@@ -1,0 +1,18 @@
+---
+layout: post
+title: "2020 in Books"
+date: 2020-12-01
+permalink: /2020-in-books/
+---
+
+I read an average of a book a week.
+
+<ul class="grid">
+{% for book in site.data.library %}
+  <li>
+    {% for data in book %}
+    <p class="title">{{data.title}}</p>
+    {% endfor %}
+  </li>
+{% endfor %}
+</ul>
