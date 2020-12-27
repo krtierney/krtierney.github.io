@@ -5,22 +5,16 @@ permalink: /about/
 published: true
 ---
 
-## 2021 (TBC)
-
-* Obtain UK citizenship?
-* Become a fully licensed driver again?
-* See my family in the US
-
 ## 2020
 
 * Took the completely ridiculous Life in the UK exam; successfully obtained Indefinite Leave to Remain.
-* Learned/re-learned how to throw pottery at [Skandihus](https://www.skandihus.co.uk). Despite covid-interruptus, it was great to have that creative outlet periodically.
+* Learned/re-learned how to throw pottery at [Skandihus](https://www.skandihus.co.uk). Despite covid-interruptus, it was wonderful to have that creative outlet periodically.
+* All the dev conferences went online. I attended [Women of React](https://womenofreact.com) and [Brighton Ruby](https://brightonruby.com), both of which were great.
+* I did a [Practical Cartooning for Technical Folks](https://courses.rachelnabors.com/p/practical-cartooning) course and proceeded to spend a lot of happy time drawing. Thank you, Rachel!
 * Took two writing courses with [Write Like A Girl](https://writelikeagrrrl.com) (on Zoom). When we were under lockdown and I couldn't go to the pottery studio, at least I always had writing to do!
 * Baked, and ate, a lot of [sourdough](https://www.instagram.com/p/B9O_pi7BweR/) bread
-* Transitioned back into engineering work and away from management, recovered from burnout (I hope), [am still looking for a new job](https://github.com/krtierney)
-* Tirelessly documented the [life and times](https://www.instagram.com/p/B9z8BGchEgq/) of my [neighbours' cat](https://www.instagram.com/p/B97Pgpml_KG/)
 * Tried to find the most pandemic-compatible holiday options in lieu of a family vacation (we took a sleeper [train](https://www.instagram.com/p/CF4zbUtlzX1/) to [Scotland](https://www.instagram.com/p/CF6loB-lvWM/), I spent a week on a [boat](https://www.instagram.com/p/CGc9i6HluUX/) in the [Red Sea](https://www.instagram.com/p/CGbwtc5FpZt/))
-* Obtained a driving permit, and passed my driving theory exam!
+* Left Rail Europe (along with the majority of their staff worldwide); took some time off work to recover from burnout
 
 ## 2019
 
