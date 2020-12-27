@@ -1,18 +1,22 @@
 ---
 layout: post
 title: "2020 in Books"
-date: 2020-12-01
+date: 2020-12-27
 permalink: /2020-in-books/
 ---
 
-I read an average of a book a week.
+I read an average of a book a week. I use [LibraryThing](https://www.librarything.com/) 
+to [catalog my reading](https://www.librarything.com/catalog/krtierney). 
 
-<ul class="grid">
-{% for book in site.data.library %}
+These are the 52 books I read in 2020.
+
+<ul>
+{% for data in site.data.books.2020 %}
+{% assign book = data[1] %}
+
   <li>
-    {% for data in book %}
-    <p class="title">{{data.title}}</p>
-    {% endfor %}
+    <em>{{book.title}}</em> by
+    {{book.authors[0].fl}}
   </li>
 {% endfor %}
 </ul>
