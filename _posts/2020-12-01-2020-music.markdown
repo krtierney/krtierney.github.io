@@ -20,6 +20,7 @@ A list of albums, compilations, EPs, mixtapes, etc., with links to Bandcamp page
 
 <ul class="grid">
 {% for album in site.data.music.albums %}
+  {% if album.releaseDate.year == "2020" %}
   <li>
   {% if album.bandcampUrl.size > 1 %}
     <p class="title"><a href="{{ album.bandcampUrl }}">{{ album.title }} by {{ album.artist }}</a></p>
@@ -28,5 +29,6 @@ A list of albums, compilations, EPs, mixtapes, etc., with links to Bandcamp page
   {% endif %}
     <p class="notes">{{ album.notes }}</p>
   </li>
+  {% endif %}
 {% endfor %}
 </ul>

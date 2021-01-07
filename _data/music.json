@@ -1,5 +1,17 @@
 { "albums": [ 
   {
+    "artist": "LocalNewsLegend",
+    "title": "I don't know what you were expecting",
+    "releaseDate": {
+      "day": "06",
+      "month": "01",
+      "year": "2021"
+    },
+    "spotifyUrl": "",
+    "bandcampUrl": "https://localnewslegend.bandcamp.com/album/i-dont-know-what-you-were-expecting",
+    "notes": ""
+  },
+  {
     "artist": "Oceanator",
     "title": "We Saw Blue",
     "releaseDate": {
