@@ -4,8 +4,7 @@ title:  "Your Hiring Process Is Probably Biased"
 date:   2021-01-04
 permalink: /2021/01/04/inclusive-hiring/
 ---
-
-## Hiring is hard and important
+Hiring is hard and important.
 
 Hiring is hard. This is true in any industry, but in the tech industry we're in the habit of handing out life-changing salaries to people who have bootstrapped their own careers. With our hiring choices, we have the power to reshape the financial reality for people from marginalised backgrounds or impoverished communities.
 
